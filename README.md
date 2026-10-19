@@ -1,4 +1,4 @@
-# amazon-homepage-clone
+# Amazon Homepage Clone
 
 A Front-end practice project recreating the Amazon homepage using HTML and CSS.
 
